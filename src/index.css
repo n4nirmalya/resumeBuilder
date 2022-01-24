@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+    @font-face {
+        font-family: "Inconsolata";
+        src: url(./assets/Inconsolata-Bold.ttf) format("truetype");
+    }
+   
+    
+    
+    
+}
